@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **react js,selniuem and jest**
+- 💬 Ask me about **react js,redux and nodejs**
 
 - 📫 How to reach me **sumanfarhan2800@gmail.com**
 
